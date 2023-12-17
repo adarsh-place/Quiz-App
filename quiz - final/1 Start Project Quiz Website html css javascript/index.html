@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber Security Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="main">
+        <header class="header">
+            <a href="#" class="logo">QUIZ</a>
+
+            <nav class="navbar">
+                <a href="#" class="active">Home</a>
+                <a href="">About</a>
+                <a href="">Contact</a>
+            </nav>
+        </header>
+
+        <div class="container">
+            <section class="quiz-section">
+                <div class="quiz-box">
+
+                    <h1>QUIZ</h1>
+
+                    <div class="quiz-header">
+                        <span></span>
+                        <span class="header-score"></span>
+                    </div>
+
+                    <h2  class="question-text"></h2>
+                    
+                    <div class="option-list">
+                        <!-- <div class="option">
+                            <span>1</span>
+                        </div>
+                        <div class="option">
+                            <span>2</span>
+                        </div>
+                        <div class="option">
+                            <span>3</span>
+                        </div>
+                        <div class="option">
+                            <span>4</span>
+                        </div> -->
+                    </div>
+
+                    <div  class="quiz-footer">
+                        <span class="question-total"></span>
+                        <div class="buttons">
+                            <button class="skip-btn">Skip</button>
+                            <button class="next-btn">Next</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="result-box">
+                    <h2>Quiz Result</h2>
+                    <div class="percentage-container">
+                        <div class="circular-progress">
+                            <span class="progress-value"></span>
+                        </div>
+                        <span class="score-text"></span>
+                    </div>
+
+                    <div class="buttons">
+                        <button id="tryAgain-btn">Try Again</button>
+                        <button id="goHome-btn">Home</button>
+                    </div>
+                </div>
+            </section>
+            <section class="home">
+                <div class="home-content">
+                    <h1>Cyber Security</h1>
+                    <p>Cybersecurity is the fortress that shields digital realms from malicious infiltration. It encompasses an array of defenses—security protocols, encryption, and proactive monitoring—safeguarding systems, networks, and data from cyber threats. As our reliance on technology deepens, so does the importance of cybersecurity. The ever-evolving landscape of cyber threats demands perpetual vigilance, continuous education, and innovative solutions. From preventing unauthorized access and data breaches to combating sophisticated malware, cybersecurity stands as the frontline defense, crucial in preserving the integrity and confidentiality of our digital world.
+                    </p>
+                    <button class="start-btn">Start Quiz</button>
+                </div>
+
+            </section>
+        </div>
+    </main>
+
+    <div class="popup-info">
+        <h2>Quiz Guide</h2>
+        <span class="info">1. All the questions are general Cyber Security Questions.</span>
+        <span class="info">2. There are a total of 20 questions.</span>
+        <span class="info">3. +1 marks is awarded for each correct answer.</span>
+        <span class="info">4. There is no negative markings.</span>
+        <span class="info">5. You can skip any question if you do not want to attend.</span>
+
+        <div class="btn-group">
+            <button class="info-btn exit-btn">Return</button>
+            <a href="#" class="info-btn continue-btn">Continue</a>
+        </div>
+    </div>
+
+    <script src="script/questions.js"></script>
+    <script src="script/script.js"></script>
+</body>
+
+</html>
