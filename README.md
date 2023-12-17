@@ -1,5 +1,8 @@
 <---- Cyber Security Quiz Project ---->
 
+<-Compatibility->
+
+Only run well in Desktops & Laptops.
 
 <-Overview->
 
