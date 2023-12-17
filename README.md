@@ -2,7 +2,7 @@
 
 <-Compatibility->
 
-Only run well in Desktops & Laptops.
+Only run well in Desktops & Laptops. (Non-Responsive)
 
 <-Overview->
 
