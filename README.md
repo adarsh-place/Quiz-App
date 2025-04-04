@@ -7,15 +7,7 @@
 
 
   <h2>📖 Overview</h2>
-  <p>This project is an interactive quiz application aimed at <strong>educating users on various aspects of cybersecurity</strong>. It covers a broad range of topics including:</p>
-  <ul>
-    <li>Encryption</li>
-    <li>Network Security</li>
-    <li>Malware</li>
-    <li>Cybersecurity Best Practices</li>
-    <li>General Cybersecurity Concepts</li>
-  </ul>
-
+  <p>This project is an interactive quiz application aimed at <strong>educating users on various aspects of cybersecurity</strong>. It covers a broad range of topics including encryption,Network Security,Cybersecurity Best Practices, etc.</p>
 
   <h2>✨ Features</h2>
   <ul>
