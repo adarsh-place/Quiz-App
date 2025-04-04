@@ -49,17 +49,6 @@ cd cyber-security-quiz</code></pre>
   <p>After completing the quiz, view your final score along with explanations for each correct answer.</p>
 
 
-  <h2>🤝 Contributions</h2>
-  <p>Contributions are welcome! To contribute:</p>
-  <ol>
-    <li><strong>Fork</strong> the repository</li>
-    <li>Create a <strong>feature branch</strong></li>
-    <li><strong>Commit</strong> your changes</li>
-    <li><strong>Push</strong> to your branch</li>
-    <li>Create a <strong>Pull Request</strong></li>
-  </ol>
-
-
   <h2>👤 Credits</h2>
   <p>Created by <strong>Adarsh Chandra</strong>, with additional inspiration and guidance from <strong>YouTube tutorials</strong>.</p>
 
