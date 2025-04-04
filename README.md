@@ -1,58 +1,64 @@
-<---- Cyber Security Quiz Project ---->
+<h1>🔐 Cyber Security Quiz Project</h1>
+🖥 Compatibility
+Note: This application is designed for desktops and laptops only. It is currently non-responsive and may not function properly on mobile devices.
 
-<-Compatibility->
+📖 Overview
+This project is an interactive quiz application aimed at educating users on various aspects of cybersecurity. It covers a broad range of topics including:
 
-Only run well in Desktops & Laptops. (Non-Responsive)
+Encryption
 
-<-Overview->
+Network Security
 
-This project aims to educate and test individuals on various aspects of cybersecurity through an interactive quiz application. The quiz covers a range of topics including but not limited to encryption, network security, malware, best practices, and cybersecurity concepts.
+Malware
 
+Cybersecurity Best Practices
 
-<-Features->
+General Cybersecurity Concepts
 
-Quiz Interface: Interactive user interface for taking the cybersecurity quiz.
+✨ Features
+Interactive Quiz Interface: Engaging and user-friendly layout for taking the quiz.
 
-Multiple Choice Questions: Questions presented in a multiple-choice format for easy participation.
+Multiple Choice Questions: Easy-to-understand format for wide accessibility.
 
-Score Tracking: Ability to track and display the user's score upon completion.
+Score Tracking: Real-time score tracking and display upon completion.
 
-Informative Explanations: Providing explanations for correct answers to enhance learning.
+Answer Explanations: Learn as you go with detailed explanations for correct answers.
 
+🛠 Technologies Used
+HTML
 
-<-Technologies Used->
+CSS
 
-Programming Language: HTML,CSS,Javascript
+JavaScript
 
+🚀 Getting Started
+1. Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/cyber-security-quiz.git
+cd cyber-security-quiz
+2. Run the Application
+Open the index.html file in any modern web browser to start the quiz.
 
-<-How to Use->
+3. Take the Quiz
+Answer the multiple-choice questions presented in the quiz interface.
 
-Installation: Clone the repository to your local machine.
+4. View Your Results
+After completing the quiz, view your final score along with explanations for each correct answer.
 
-Run the Application: Execute the application following the provided instructions.
+🤝 Contributions
+Contributions are welcome! To contribute:
 
-Take the Quiz: Answer the questions presented in the interface.
+Fork the repository
 
-View Results: See your score upon completing the quiz along with explanations for correct answers.
-
-
-<-Contribution->
-
-Contributions to this project are welcome. If you'd like to contribute:
-
-
-<-Fork the repository->
-
-Create your feature branch
+Create a feature branch
 
 Commit your changes
 
-Push to the branch
+Push to your branch
 
-Create a new Pull Request
+Create a Pull Request
 
-
-<-Credits->
-
-This project was created by ADARSH CHANDRA and contributions from Youtube.
-
+👤 Credits
+Created by Adarsh Chandra, with additional inspiration and guidance from YouTube tutorials.
