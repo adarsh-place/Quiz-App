@@ -36,8 +36,7 @@
 
   <h2>🚀 Getting Started</h2>
   <h3>1. Clone the Repository</h3>
-  <pre><code>git clone https://github.com/your-username/cyber-security-quiz.git
-cd cyber-security-quiz</code></pre>
+  <pre><code>git clone https://github.com/adarsh-place/Quiz-App.git</code></pre>
 
   <h3>2. Run the Application</h3>
   <p>Open the <code>index.html</code> file in any modern web browser to start the quiz.</p>
