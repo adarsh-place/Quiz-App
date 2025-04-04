@@ -1,64 +1,72 @@
 <h1>🔐 Cyber Security Quiz Project</h1>
-🖥 Compatibility
-Note: This application is designed for desktops and laptops only. It is currently non-responsive and may not function properly on mobile devices.
 
-📖 Overview
-This project is an interactive quiz application aimed at educating users on various aspects of cybersecurity. It covers a broad range of topics including:
+  <h2>🖥 Compatibility</h2>
+  <blockquote>
+    <strong>Note:</strong> This application is designed for <strong>desktops and laptops only</strong>. It is currently <strong>non-responsive</strong> and may not function properly on mobile devices.
+  </blockquote>
 
-Encryption
+  <hr />
 
-Network Security
+  <h2>📖 Overview</h2>
+  <p>This project is an interactive quiz application aimed at <strong>educating users on various aspects of cybersecurity</strong>. It covers a broad range of topics including:</p>
+  <ul>
+    <li>Encryption</li>
+    <li>Network Security</li>
+    <li>Malware</li>
+    <li>Cybersecurity Best Practices</li>
+    <li>General Cybersecurity Concepts</li>
+  </ul>
 
-Malware
+  <hr />
 
-Cybersecurity Best Practices
+  <h2>✨ Features</h2>
+  <ul>
+    <li><strong>Interactive Quiz Interface:</strong> Engaging and user-friendly layout for taking the quiz.</li>
+    <li><strong>Multiple Choice Questions:</strong> Easy-to-understand format for wide accessibility.</li>
+    <li><strong>Score Tracking:</strong> Real-time score tracking and display upon completion.</li>
+    <li><strong>Answer Explanations:</strong> Learn as you go with detailed explanations for correct answers.</li>
+  </ul>
 
-General Cybersecurity Concepts
+  <hr />
 
-✨ Features
-Interactive Quiz Interface: Engaging and user-friendly layout for taking the quiz.
+  <h2>🛠 Technologies Used</h2>
+  <ul>
+    <li><strong>HTML</strong></li>
+    <li><strong>CSS</strong></li>
+    <li><strong>JavaScript</strong></li>
+  </ul>
 
-Multiple Choice Questions: Easy-to-understand format for wide accessibility.
+  <hr />
 
-Score Tracking: Real-time score tracking and display upon completion.
+  <h2>🚀 Getting Started</h2>
+  <h3>1. Clone the Repository</h3>
+  <pre><code>git clone https://github.com/your-username/cyber-security-quiz.git
+cd cyber-security-quiz</code></pre>
 
-Answer Explanations: Learn as you go with detailed explanations for correct answers.
+  <h3>2. Run the Application</h3>
+  <p>Open the <code>index.html</code> file in any modern web browser to start the quiz.</p>
 
-🛠 Technologies Used
-HTML
+  <h3>3. Take the Quiz</h3>
+  <p>Answer the multiple-choice questions presented in the quiz interface.</p>
 
-CSS
+  <h3>4. View Your Results</h3>
+  <p>After completing the quiz, view your final score along with explanations for each correct answer.</p>
 
-JavaScript
+  <hr />
 
-🚀 Getting Started
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/cyber-security-quiz.git
-cd cyber-security-quiz
-2. Run the Application
-Open the index.html file in any modern web browser to start the quiz.
+  <h2>🤝 Contributions</h2>
+  <p>Contributions are welcome! To contribute:</p>
+  <ol>
+    <li><strong>Fork</strong> the repository</li>
+    <li>Create a <strong>feature branch</strong></li>
+    <li><strong>Commit</strong> your changes</li>
+    <li><strong>Push</strong> to your branch</li>
+    <li>Create a <strong>Pull Request</strong></li>
+  </ol>
 
-3. Take the Quiz
-Answer the multiple-choice questions presented in the quiz interface.
+  <hr />
 
-4. View Your Results
-After completing the quiz, view your final score along with explanations for each correct answer.
+  <h2>👤 Credits</h2>
+  <p>Created by <strong>Adarsh Chandra</strong>, with additional inspiration and guidance from <strong>YouTube tutorials</strong>.</p>
 
-🤝 Contributions
-Contributions are welcome! To contribute:
-
-Fork the repository
-
-Create a feature branch
-
-Commit your changes
-
-Push to your branch
-
-Create a Pull Request
-
-👤 Credits
-Created by Adarsh Chandra, with additional inspiration and guidance from YouTube tutorials.
+  <hr />
