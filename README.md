@@ -31,7 +31,7 @@
   <pre><code>git clone https://github.com/adarsh-place/Quiz-App.git</code></pre>
 
   <h3>2. Run the Application</h3>
-  <p>Open the <code>index.html</code> file in any modern web browser to start the quiz.</p>
+  <p>Open the <code>index.html</code> of any template file in any modern web browser to start the quiz.</p>
 
   <h3>3. Take the Quiz</h3>
   <p>Answer the multiple-choice questions presented in the quiz interface.</p>
